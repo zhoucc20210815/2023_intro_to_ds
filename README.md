@@ -1,8 +1,7 @@
 # Intro-to-ds-23-24-In-Class-Assignment-Portfolio
 
 **Author:** Zixi Zhou  
-**Student ID:** 23011611  
-**GitHub:** [2023_Intro_to_ds_Zixi_Zhou](https://git.arts.ac.uk/23011611/2023_Intro_to_ds_Zixi_Zhou)
+**GitHub:** [2023_Intro_to_ds_Zixi_Zhou](https://github.com/zhoucc20210815/2023_intro_to_ds)
 
 ## Introduction
 This folder contains the In Class Assignment Portfolio for Week 1, Week 4, Week 6, and Week 7.
